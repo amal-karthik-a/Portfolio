@@ -1,0 +1,77 @@
+.main-bg{
+    height: 100vh;
+}
+
+.cover-page{
+    padding: 90px 60px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px rgba(114, 113, 113, 0.363);
+    width: 550px;
+}
+
+.leftsec img{
+    width: 70px;
+}
+.leftsec h2{
+    font-size: 35px;
+    margin-top: 10px;
+    font-family: "Roboto";
+    font-weight: 650;
+    color: rgb(33, 186, 206);
+}
+.leftsec p{
+    font-size: 13px;
+    font-weight: 600;
+    color: rgba(14, 25, 41, 0.404);
+    margin-top: 30px;
+    margin-left: 5px;
+    font-family: "Roboto";
+}
+.cover-cont{
+    font-size: 16px;
+    margin-left: 40px;
+    color: rgba(3, 3, 3, 0.89);
+}
+
+.main-bg{
+    height: 100vh;
+}
+.card-team{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.329);
+}
+.mem img{
+    width: 300px;
+    height: 270px;
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.list-team{
+    flex-wrap: wrap;
+}
+.card-team{
+    padding: 30px;
+}
+.dis{
+    margin-top: -120px;
+    margin-left: 15px;
+}
+.tm-clr{
+    font-family: "Roboto";
+    font-weight: 750;
+    margin-bottom: 40px;
+}
+.mem:hover{
+    color: white;
+    transition: 0.3s;
+}
+.mem{
+    color: transparent;
+    transition: 0.5s;
+}
+
+.mem img:hover{
+    transition: 0.3s;
+}
+.btns{
+    gap: 15px;
+}
